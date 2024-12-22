@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Calendar from './components/Calendar';
 import EventModal from './components/EventModal';
 import { Clock, CalendarDays, Plus, Search, Download } from 'lucide-react';
-import { Button } from './components/form/button';
+import { Button } from './components/form/Buttons';
 import { Input } from './components/form/InputBox';
 import { DropResult } from '@hello-pangea/dnd';
 import {

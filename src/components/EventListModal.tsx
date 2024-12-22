@@ -1,7 +1,7 @@
 import React from 'react';
 import * as Dialog from '@radix-ui/react-dialog';
 import { X, Clock, CalendarDays, Trash2, Edit2, ChevronRight } from 'lucide-react';
-import { Button } from './form/button';
+import { Button } from './form/Buttons';
 
 interface Event {
   id: string;

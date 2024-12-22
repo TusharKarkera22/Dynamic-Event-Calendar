@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from './form/Box';
-import { Button } from './form/button';
+import { Button } from './form/Buttons';
 import { Input } from './form/InputBox';
-import { Label } from './form/label';
+import { Label } from './form/Label';
 import { Textarea } from './form/TextField';
 import {
   Select,
@@ -10,7 +10,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from './form/select';
+} from './form/Select';
 
 interface Event {
   id: string;

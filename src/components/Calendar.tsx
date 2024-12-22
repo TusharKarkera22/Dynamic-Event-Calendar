@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from './form/button';
+import { Button } from './form/Buttons';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { cn } from '../lib/utils';
 import { DragDropContext, Droppable, Draggable, DropResult } from '@hello-pangea/dnd';
