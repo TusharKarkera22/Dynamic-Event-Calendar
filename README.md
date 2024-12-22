@@ -18,7 +18,6 @@ The app uses **TypeScript** for type safety and is powered by **React** and mode
 - **Drag and Drop**: Easily move events to different dates.
 - **Event Search**: Quickly search for events by name.
 - **Event Export**: Export events to **JSON** or **CSV** files.
-- **Responsive**: Mobile-friendly design.
 - **Color-coded Events**: Assign colors to events for better visualization.
 
 ## Technologies Used
